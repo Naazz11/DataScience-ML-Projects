@@ -7,7 +7,7 @@ AI/ML and Data Science projects for internships and junior roles.
 
 ## 🧠 Skills
 - Python (Basics)
-- Machine Learning (Supervised Learning)
+- Machine Learning (Supervised, Unsupervised Learning)
 - Data Analysis (Pandas, NumPy)
 - Audio Classification (MFCC)
 - Model Training & Evaluation
