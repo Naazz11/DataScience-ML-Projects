@@ -31,4 +31,5 @@ AI/ML and Data Science projects for internships and junior roles.
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/faryal-naz-95b34b265
 - GitHub: https://github.com/Naazz11/DataScience-ML-Projects/edit/main/README.md
-- 
+- Google Drive Projects:
+https://drive.google.com/drive/folders/10YnvUwrJAb0vN8kJtPCy95---geHHHD6
